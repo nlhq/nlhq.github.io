@@ -18,6 +18,8 @@ The renewal form should cover the following items:
 
 This all fits conveniently on a single page and is very easy to review and get signed. I recommend including a copy of the original lease with the extension so the tenants can refresh themselves on the terms.
 
+{% include ad_links.html %}
+
 Below you'll find a free copy of our lease renewal form. At NewLandlordHQ we provide you with complete, ready-to-use documents. It's available in both PDF and MS Word formats so feel free to use as-is or modify it to meet your needs.
 
 [Lease Renewal PDF][1] [Lease Renewal Word Document][2]

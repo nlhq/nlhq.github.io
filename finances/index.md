@@ -8,10 +8,7 @@ To be a successful landlord you don&#8217;t have to have a degree in Finance or 
 
 Cash flow is simply monitoring your income (or rent) vs. your expenses.  It is important to remember that being a landlord is a business.  And as with all business, you want to maximize profits while minimizing losses.  By keeping track of your cash flow, or estimating it when getting started, you can quickly determine how successful you will be.  This is described in more detail in [Reasons for Being a Landlord][1].
 
-<!-- Quick Adsense WordPress Plugin: http://quicksense.net/ -->
-
-<div style="float:right;margin:10px 0 10px 10px;">
-</div>
+{% include ad_top.html %}
 
 ## [Setting Rent][2]
 
@@ -21,8 +18,7 @@ The first half of the cash flow equation is income.  As a landlord, your income
 
 The second half of the cash flow equation are your expenses.  Your expenses are anything that you spend money on that contributes to you renting your property.  Examples of this include: mortgage, interest, taxes, insurance, management fees, maintenance fees, and association fees.  It&#8217;s important to keep track of all of these for two reasons: to assess how successful you are and to account for them when filing your taxes.
 
-<div style="font-size:0px;height:0px;line-height:0px;margin:0;padding:0;clear:both">
-</div>
+{% include ad_links.html %}
 
  [1]: /landlording/reasons/
  [2]: /finances/rent/

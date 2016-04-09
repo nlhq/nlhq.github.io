@@ -4,6 +4,8 @@ title: Late Fees
 
 Late fees are a modest fee, typically around $50, that gets assessed whenever rent is not received by the end of the grace period. The fee and grace period should both be written into the lease.
 
+{% include ad_top.html %}
+
 ## Why Late Fees are Important
 
 There are three types of tenants,
@@ -23,3 +25,5 @@ Some people like to provide one warning which may be acceptable. However, you sh
 I'll be adding an example Late Fee Notice to the Document section soon.
 
 *Laws governing the amount and timing of late fees vary by location. Please review your local laws.*
+
+{% include ad_links.html %}

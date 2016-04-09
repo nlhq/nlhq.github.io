@@ -17,6 +17,8 @@ The first step is establishing your criteria for an acceptable tenant.  These a
 *   do they own a water bed
 *   how many people plan to live there
 
+{% include ad_top.html %}
+
 ## 2 &#8211; Advertise
 
 There are all sorts of options for advertising your rental property.  Some cost money and some are free so you&#8217;ll need to decide how much you&#8217;re willing to spend.  Similar to when [setting rent][1] this could be dependent on your urgency.  At a minimum, use all the free methods available and then evaluate the other options and decide which you think will work best for you.
@@ -34,6 +36,8 @@ The showing is a two way interview.  They are evaluating the unit to see if the
 You&#8217;ll need to prepare an application form that asks everything you need to know to make your final decision.  We&#8217;ve provided an [example application][2] which you can use or modify.  It&#8217;s important to review all the information on the submitted applications and try to verify as much as possible.
 
 I recommend that you collect an application fee.  In most states the fee can only be as much as the credit and background checks cost, but this will allow you to only spend your time on serious applicants and can save you a decent penny if you have multiple applicants to consider.
+
+{% include ad_links.html %}
 
 ## 6 &#8211; Credit / Background Check
 

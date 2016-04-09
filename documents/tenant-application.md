@@ -6,6 +6,8 @@ Below you&#8217;ll find a free copy of our rental application form. At NewLandlo
 
 Finding tenants is one of the most critical, and stressful, parts of being a landlord. When searching for tenants it&#8217;s important to have a [clear process][1] which begins with a good rental application. The application is your opportunity to learn as much as you can about a potential tenant so you can make an educated decision based on your selection criteria.
 
+{% include ad_top.html %}
+
 ## Parts of the Application
 
 My application is divided into 10 parts. Below is an explanation of each part and a justification for why I want that information.
@@ -40,6 +42,8 @@ This is a series of questions to help you gauge their financial health prior to 
 *   Have they ever defaulted on a lease?
 
 All of these things will help you develop a picture of the type of tenant they may be and if you feel comfortable that they will be reliable financially. You can also compare their answers to your background checks to better understand their honesty and trustworthiness.
+
+{% include ad_links.html %}
 
 ### 7. Other Information
 

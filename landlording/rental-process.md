@@ -10,6 +10,8 @@ You have decided you want to rent your house, but you’re not sure exactly wher
 
 If you are currently living in the house then naturally you’ll need to move out before you rent it. This step can happen towards the end of this process if you’re looking to minimize the vacancy time. When I first rented out my condo, I was fortunate enough to only have the property vacant for a few weeks.
 
+{% include ad_top.html %}
+
 ## Legal
 
 You’ll most likely need to do some paperwork to properly declare the property as a rental. For me it was just a form I had to fill out with my local township. You can call your town clerk’s office to find out your local requirements.
@@ -23,6 +25,8 @@ Once vacant, you’ll want to get the unit in the best shape possible. Perform a
 ## Find Tenants
 
 There are lots of ways to go about finding tenants. I recommend following my [9 Step Guide to Tenant Screening][1].  Be thorough with this process because your tenants will be living there for at least a year, if not more. After finding tenants, it’s a good idea to continue looking for other prospective tenants until the unit hold form is completed. This is to protect you in case something falls through.
+
+{% include ad_links.html %}
 
 ## Fire Inspection
 

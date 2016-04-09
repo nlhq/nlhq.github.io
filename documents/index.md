@@ -19,6 +19,8 @@ Coming Soon:
 *   Rent Deposit & Hold Form
 *   Many more
 
+{% include ad_links.html %}
+
 *NewLandlordHQ is not a legal service and is not responsible for your use of these documents.  The documents are provided as a reference and are not guaranteed to meet all legal requirements. *
 
 <div style="font-size:0px;height:0px;line-height:0px;margin:0;padding:0;clear:both">

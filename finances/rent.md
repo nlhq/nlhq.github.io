@@ -6,6 +6,8 @@ title: Setting Rent
 
 Accurately setting the rent for a new rental property is very important.  You need to make sure it&#8217;s set low enough to attract prospective tenants and high enough to allow you to take advantage of the full earning potential of your property.  This requires some research, but with the help of the internet it is completely manageable.
 
+{% include ad_top.html %}
+
 ## Describe Your Unit
 
 In order to set the rent for your property, you need to figure out what your property will be worth to potential renters.  The easiest way to do this is to make a list of the characteristics of your property.  Some examples include:
@@ -53,6 +55,8 @@ Another good sanity check is to use some online tools to help give you some roug
 ## Urgency
 
 Another factor that could influence your decision is how quickly you are trying to find a new tenant.  If you have a few months it may be worth testing a higher rent and working down as you get closer to your deadline.  But if you are trying to find a new tenant as quickly as possible it may be worth targeting a lower rent to ensure you find someone.  It&#8217;s important to keep in mind the cost of an empty unit.  For example, if you are able to fill the unit with a rent of $1450 immediately or you could fill the unit for $1500 but it&#8217;ll be vacant for an extra month, you&#8217;d be better off renting at $1450.  That way you only lose $600 for the year instead of $1500!
+
+{% include ad_links.html %}
 
 ## Set Your Rent
 

@@ -8,6 +8,8 @@ You are probably here because you are interested in the prospect of becoming a l
 
 This raises an interesting question: What is a successful landlord?  Depending on your situation the definitions vary.  In [Reasons for Becoming a Landlord][1] we discuss each type of landlord and what success means for each.  It&#8217;s important you think about this upfront.  Deciding to become a landlord is a big decision and shouldn&#8217;t be rushed into.  Once you&#8217;ve defined your success criteria you&#8217;ll be able to make an educated decision about whether being a landlord is right for you.
 
+{% include ad_top.html %}
+
 ## Property to Rent
 
 Once you&#8217;ve decided that being a landlord is your best option, you&#8217;ll need property to rent.  In general that property comes from one of two sources.  The traditional landlord will purchase a piece of real estate specifically with the intention of renting it.  The second type of landlord is what the media has been characterizing as the &#8220;accidental landlord.&#8221;  This term is for individuals  who didn&#8217;t intend to become landlords when they bought property but given their current circumstances have decided to rent their home.  As mention above and in [Reasons for Becoming a Landlord][1] there are two primary categories of these people:
@@ -20,6 +22,8 @@ Regardless of your reason, these people already have step one taken care of beca
 ## [Renting Your Property][3]
 
 Converting  your home to a rental is a fairly straightforward process and actually much simpler than you may expect.  In [How to Rent Your Home][3] we discuss the process of preparing your home and all the things you need to consider.  Usually it just involves cleaning the property and filling out some paperwork with your county.  The more challenging aspect of being a landlord is selecting and managing your tenants.
+
+{% include ad_links.html %}
 
 ## [Tenant Screening][4]
 
