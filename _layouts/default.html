@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body>
+  <div class='container'>
+
+    {% include header.html %}
+
+    <div class='row'>
+      <div class='col-md-1'></div>
+      <div class='col-md-10'>
+        <div id='content'>
+          {{ content }}
+        </div>
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+  </div>
+
+</body>
+
+</html>

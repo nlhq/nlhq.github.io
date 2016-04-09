@@ -1,0 +1,27 @@
+---
+layout: default
+title: Blog
+permalink: /blog
+---
+
+<div class="home">
+
+  {% for post in site.posts limit:10 %}
+      <div class="post">
+        {% if post.link %}
+          <h2><a href="{{ post.link }}">{{ post.title }}</a> <a href="{{ post.url }}">&#x002b</a></h2>
+        {% else %}
+          <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        {% endif %}
+
+          <div class="body">
+              {{ post.content }}
+          </div>
+
+          <div class="datestamp">
+              Posted on {{ post.date | date_to_long_string }}
+          </div>
+      </div>
+  {% endfor %}
+
+</div>
