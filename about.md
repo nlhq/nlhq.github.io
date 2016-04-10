@@ -41,4 +41,4 @@ Thank you for reading.
 </div>
 
  [1]: http://www.irs.gov/newsroom/article/0,,id=204671,00.html
- [2]: /contact/ "contact me"
+ [2]: http://twitter.com/newlandlordhq "contact me"
