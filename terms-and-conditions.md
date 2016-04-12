@@ -1,6 +1,6 @@
 ---
 title: Terms and Conditions
-date: 2013-03-15 08:37 PM
+permalink: /terms-and-conditions/
 ---
 
 **BEFORE USING THIS SITE, PLEASE GO THROUGH THE USE OF CAREFULLY TERMS AND CONDITIONS.**

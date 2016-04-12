@@ -1,6 +1,6 @@
 ---
 title: Privacy Policy
-date: 2013-03-15 08:37 PM
+permalink: /privacy-policy/
 ---
 
 Privacy Policy for [NewLandlordHQ][1].
