@@ -40,4 +40,4 @@ After finding tenants you’ll want to get the lease signed as quickly as possib
 
 Once everything else listed is done, you just wait for the move-in date. You’ll want to be there to give the tenants the keys and welcome them into their new home. And that’s all there is to it, you’re now a landlord.
 
- [1]: /landlording/screening/
+ [1]: /landlording/screening

@@ -20,5 +20,5 @@ The second half of the cash flow equation are your expenses.  Your expenses are
 
 {% include ad_links.html %}
 
- [1]: /landlording/reasons/
- [2]: /finances/rent/
+ [1]: /landlording/reasons
+ [2]: /finances/rent

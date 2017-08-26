@@ -42,6 +42,6 @@ If you feel that the pros outweigh the cons for you then start preparing to [ren
 *   [Reasons for Becoming a Landlord][2]
 *   [Rent Your Home][3]
 
- [1]: /about/
- [2]: /landlording/reasons/
- [3]: /landlording/rental-process/ "How to Rent Your Home"
+ [1]: /about
+ [2]: /landlording/reasons
+ [3]: /landlording/rental-process "How to Rent Your Home"

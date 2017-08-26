@@ -71,6 +71,6 @@ Finally comes the legal disclaimers which have the tenant state that everything 
 
 *NewLandlordHQ is not a legal service and is not responsible for your use of these documents. The documents are provided as a reference and are not guaranteed to meet all legal requirements.*
 
- [1]: /landlording/screening/
+ [1]: /landlording/screening
  [2]: /files/rentalapplication.pdf
  [3]: /files/rentalapplication.docx

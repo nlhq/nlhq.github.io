@@ -31,6 +31,6 @@ Keep in mind that no matter what type of landlord you are there are always finan
 *   [Sell or Rent][2]
 *   [About: My Story][3]
 
- [1]: /finances/rent/ "Setting Rent"
- [2]: /finances/sell-vs-rent/
- [3]: /about/
+ [1]: /finances/rent "Setting Rent"
+ [2]: /finances/sell-vs-rent
+ [3]: /about

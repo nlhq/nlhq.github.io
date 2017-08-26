@@ -59,5 +59,5 @@ I like to get the lease signed as early as possible because it gives me the peac
 
 The final step is when your new tenants moves in.  Be sure to greet them at the unit with the keys and welcome them into their new home.  Moving tends to be a big event for people, so make sure you are welcoming and start things off on the right foot.
 
- [1]: /finances/rent/
- [2]: /documents/tenant-application/
+ [1]: /finances/rent
+ [2]: /documents/tenant-application

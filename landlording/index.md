@@ -46,8 +46,8 @@ But quickly I realized it wasn&#8217;t as bad as I first imagined.  Anyone can 
 
 If you have specific questions about being a landlord [please let us know][5].
 
- [1]: /landlording/reasons/
- [2]: /about/
- [3]: /landlording/rental-process/
- [4]: /landlording/screening/
- [5]: /contact/
+ [1]: /landlording/reasons
+ [2]: /about
+ [3]: /landlording/rental-process
+ [4]: /landlording/screening
+ [5]: /contact
