@@ -1,5 +1,5 @@
 ---
-title: Initial Conditions
+title: Initial Property Conditions
 menu: Landlording
 ---
 
