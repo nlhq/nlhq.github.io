@@ -9,9 +9,9 @@
           <li><a href="/landlording">Being a Landlord</a></li>
           <li role='presentation' class='divider'></li>
           {% for node in site.pages %}
-            {% if node.menu == 'landlording' %}
+
               <li><a href='{{node.url}}'>{{node.title}}</a></li>
-            {% endif %}
+          
           {% endfor %}
           <li><a href="/landlording/screening">Tenant Screening Process</a></li>
           <li><a href="/landlording/reasons">Reasons for Becoming a Landlord</a></li>
