@@ -1,5 +1,6 @@
 ---
 title: How to Rent Property
+menu: Landlording
 ---
 
 ![House for Rent](/images/house_for_rent.jpg)

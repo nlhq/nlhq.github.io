@@ -1,5 +1,6 @@
 ---
 title: Initial Conditions
+menu: Landlording
 ---
 
 You have renters lined up and are preparing to move in. Congratulations! But there is still a very important step before move-in day.

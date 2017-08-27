@@ -1,5 +1,6 @@
 ---
 title: Sell vs Rent
+menu: Finances
 ---
 
 ![Sell vs Rent](/images/sell-or-rent-your-home.gif)

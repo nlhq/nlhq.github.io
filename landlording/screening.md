@@ -1,5 +1,6 @@
 ---
 title: Tenant Screening Process
+menu: Landlording
 ---
 
 ![Tenant Screening](/images/tenant_screening.gif)

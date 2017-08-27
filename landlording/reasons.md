@@ -1,5 +1,6 @@
 ---
 title: Reasons for Becoming a Landlord
+menu: Landlording
 ---
 
 ![Reasons for Becoming a Landlord](/images/reasons-for-becoming-a-landlord.gif)

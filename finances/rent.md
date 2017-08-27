@@ -1,5 +1,6 @@
 ---
 title: Setting Rent
+menu: Finances
 ---
 
 ![Setting Rent](/images/setting_rent.gif)

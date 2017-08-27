@@ -1,5 +1,6 @@
 ---
 title: Tenant Application
+menu: Documents
 ---
 
 Below you&#8217;ll find a free copy of our rental application form. At NewLandlordHQ we provide you with complete, ready-to-use documents. This rental application form is the one I personally use when screening potential tenants. It&#8217;s available in both PDF and MS Word formats so feel free to use as-is or modify it to meet your needs.

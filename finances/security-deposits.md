@@ -1,5 +1,6 @@
 ---
 title: Security Deposits
+menu: Finances
 ---
 
 ![Security Deposits](/images/business-money-pink-coins.jpg)
