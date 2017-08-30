@@ -1,5 +1,6 @@
 ---
 title: Being a Landlord
+description: Everything you need to know about being a landlord.
 ---
 
 You are probably here because you are interested in the prospect of becoming a landlord.  Whether you&#8217;re looking to diversify your income through real estate, you&#8217;re looking to sell your home but it would result in a loss, or you&#8217;re fearful of losing your home to foreclosure, NewLandlordHQ will provide you with the information and skills you need to be a successful landlord.

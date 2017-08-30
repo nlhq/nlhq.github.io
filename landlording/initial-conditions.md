@@ -1,6 +1,8 @@
 ---
 title: Initial Property Conditions
 menu: Landlording
+description: Finding a new tenant is exciting but don't forget the most important step before they move in - document the property initial conditions.
+image: /images/pexels-photo-274973.jpeg
 ---
 
 You have renters lined up and are preparing to move in. Congratulations! But there is still a very important step before move-in day.
