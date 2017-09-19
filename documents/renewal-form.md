@@ -1,6 +1,7 @@
 ---
 title: Lease Renewal Form
 menu: Documents
+description: Landlord form renewing an existing lease.
 ---
 
 Towards the end of your tenant's lease you'll need to determine whether they'll be renewing the lease or moving out. Hopefully the past year (or whatever the lease term was) went smoothly and both parties would like them to stay. When this happens you have two option: write up a new lease or write up a lease renewal form that extends the current lease. I find the renewal form to be a convenient option as long as no major changes are required to the original lease.

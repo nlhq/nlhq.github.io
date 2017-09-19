@@ -1,6 +1,8 @@
 ---
 title: Sell vs Rent
 menu: Finances
+description: When you decide to move the next important decision is whether to sell your existing home or turn it into an investment property.
+image: /images/sell-or-rent-your-home.gif)
 ---
 
 ![Sell vs Rent](/images/sell-or-rent-your-home.gif)

@@ -1,6 +1,8 @@
 ---
 title: Tenant Screening Process
 menu: Landlording
+description: Finding good tenants is critical and daunting. These are the things to keep in mind when hunting for your next tenants.
+image: /images/tenant_screening.gi
 ---
 
 ![Tenant Screening](/images/tenant_screening.gif)

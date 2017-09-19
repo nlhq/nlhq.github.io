@@ -1,6 +1,8 @@
 ---
 title: Reasons for Becoming a Landlord
 menu: Landlording
+description: Reasons for becoming a landlord include wanting to invest in real estate, not being able to sell while wanting to move, or to protect your assets from the risk of foreclosure.
+image: /images/reasons-for-becoming-a-landlord.gif
 ---
 
 ![Reasons for Becoming a Landlord](/images/reasons-for-becoming-a-landlord.gif)

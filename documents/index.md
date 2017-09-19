@@ -1,5 +1,6 @@
 ---
 title: Documents
+description: Source for all types of free landlord documents in both MS Word and PDF formats.
 ---
 
 Our goal at NewLandlordHQ is to make becoming a landlord as easy as possible. One of the challenges when first starting out is having all the correct documentation. At NewLandlordHQ we provide you with free, ready-to-use documents. We provide all our documents in both Word and PDF formats so you can easily edit them or use them as-is.

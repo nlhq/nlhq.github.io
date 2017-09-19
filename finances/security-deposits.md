@@ -1,6 +1,8 @@
 ---
 title: Security Deposits
 menu: Finances
+description: Security deposits provide you some piece of mind that your property will be properly maintained so make sure to charge one.
+image: /images/business-money-pink-coins.jpg
 ---
 
 ![Security Deposits](/images/business-money-pink-coins.jpg)

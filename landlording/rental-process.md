@@ -1,6 +1,8 @@
 ---
 title: How to Rent Property
 menu: Landlording
+description: A step-by-step guide to renting your property as a new landlord.
+image: /images/house_for_rent.jpg
 ---
 
 ![House for Rent](/images/house_for_rent.jpg)

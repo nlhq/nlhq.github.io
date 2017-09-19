@@ -2,11 +2,12 @@
 layout: about
 title: About
 permalink: /about/
+description: The story about how I become a landlord... by accident.
 ---
 
 ## About Me
 
-My name is John. I’m 28, married with no kids, and live in New Jersey. Being employed as an electrical engineer, I never saw myself getting into real estate. But when a new housing opportunity arose, renting my two-bedroom, two-story condo became a sensible reality for me. Given today’s real estate climate, I’m probably not alone.
+My name is John. I’m 33, married with no kids, and live in New Jersey. Being employed as an electrical engineer, I never saw myself getting into real estate. But when a new housing opportunity arose, renting my two-bedroom, two-story condo became a sensible reality for me. Given today’s real estate climate, I’m probably not alone.
 
 ## How I Became a Landlord
 

@@ -1,6 +1,8 @@
 ---
 title: Taxes
 menu: Finances
+description: Taxes with investment property can seem daunting, but it's not necessary to spend hundreds of dollars for something you can easily do yourself with the help of some tax software.
+image: /images/calculator-calculation-insurance-finance-53621.jpeg
 ---
 
 ![Calculator](/images/calculator-calculation-insurance-finance-53621.jpeg)

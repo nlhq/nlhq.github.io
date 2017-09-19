@@ -1,6 +1,7 @@
 ---
 title: Late Fees
 menu: Finances
+description: It's never great to be in a position where late fees are required, but they are critical to ensuring timely payment.
 ---
 
 Late fees are a modest fee, typically around $50, that gets assessed whenever rent is not received by the end of the grace period. The fee and grace period should both be written into the lease.

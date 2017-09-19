@@ -1,5 +1,6 @@
 ---
 title: Finances
+description: Success as a landlord requires a clear understanding of your finances including cash flow, rent, and expenses.
 ---
 
 To be a successful landlord you don&#8217;t have to have a degree in Finance or be a math whiz.  However, you do need to understand the basics of cash flow, setting rent, and recording expenses.  With these basic skills you&#8217;re prepared to be a landlord.

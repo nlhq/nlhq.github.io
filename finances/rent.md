@@ -1,6 +1,8 @@
 ---
 title: Setting Rent
 menu: Finances
+description: Setting the appropriate rent can be tricky. It's a balance between long term income and long term vacancy.
+image: /images/setting_rent.gif
 ---
 
 ![Setting Rent](/images/setting_rent.gif)
